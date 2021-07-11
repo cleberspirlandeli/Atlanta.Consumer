@@ -1,0 +1,15 @@
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.exe
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.deps.json
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.runtimeconfig.json
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.runtimeconfig.dev.json
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.dll
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\ref\Atlanta.Domain.dll
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\bin\Debug\net5.0\Atlanta.Domain.pdb
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.AssemblyInfoInputs.cache
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.AssemblyInfo.cs
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.dll
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\ref\Atlanta.Domain.dll
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.pdb
+C:\Users\simeu\source\repos\Atlanta.Consumer\Atlanta.Domain\obj\Debug\net5.0\Atlanta.Domain.genruntimeconfig.cache
